@@ -2,11 +2,10 @@
 
 Hi there!
 
-My name is Mustafa Ali Saba, I am 1st year PhD student at Autonomous University of Puebla (LKE program) in Mexico. My research interest focuses on language understanding by machines for the social good. In broad, I am interested in providing commonsense reasoning to computers to improve life. In particular, my goals are the searching of mathematical models for commonsense reasoning and representation in anaphoric text passages natural or artificially created. 
+My name is Mustafa Ali Saba, I am 1st year PhD student at Autonomous University of Puebla (LKE program) in Mexico. My research interest focuses on **language understanding by machines for the social good**. In broad, I am interested in providing **commonsense reasoning** to computers to _improve life_. In particular, my goals are the searching of mathematical models for commonsense reasoning and representation in _anaphoric text passages_ natural or synthetically created.
 
-### Publications
+:)
 
-### Projects
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
