@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Mustafa Ali Saba
 description: Welcome to my personal website.
 toc: true
+plugins:
+  - jemoji
