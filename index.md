@@ -2,7 +2,7 @@
 
 Hi there!
 
-My name is Mustafa Ali Saba, I am 1st year PhD student at Autonomous University of Puebla (LKE program) in Mexico. My research interest focuses on **language understanding by machines for the social good**. In broad, I am interested in providing **commonsense reasoning** to computers to _improve life_. In particular, my goals are the searching of mathematical models for commonsense reasoning and representation in _anaphoric text passages_ natural or synthetically created.
+My name is Mustafa Ali Saba and I grew up in Cosamaloapan de Carpio, México. I am 1st year PhD student at Autonomous University of Puebla (LKE program) in Mexico. My research interest focuses on **language understanding by machines for the social good**. In broad, I am interested in providing **commonsense reasoning** to computers to _improve life_. In particular, my goals are the searching of mathematical models for commonsense reasoning and representation in _anaphoric text passages_ natural or synthetically created.
 
 :smile:
 
